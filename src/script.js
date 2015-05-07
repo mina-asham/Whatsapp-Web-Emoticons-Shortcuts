@@ -27,6 +27,7 @@ var moveCursorToEnd = function (element) {
 };
 
 var shortcuts = {
+	'::d'   : '<img alt="😂" draggable="false" class="emoji emojiordered1155" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">',
 	':d'   : '<img alt="" class="emoji emojiordered1156" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">',
 	':))'  : '<img alt="" class="emoji emojiordered1163" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">',
 	';)'   : '<img alt="" class="emoji emojiordered1162" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">',
@@ -38,9 +39,9 @@ var shortcuts = {
 	'b)'   : '<img alt="😎" class="emoji emojiordered1167" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">',
 	':|'   : '<img alt="😐" class="emoji emojiordered1169" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">',
 	':$'   : '<img alt="" class="emoji emojiordered1204" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">',
-	'xd'   : '<img alt="" class="emoji emojiordered1169" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">',
-	':*'   : '<img alt="" class="emoji emojiordered1177" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">',
-	'::*'  : '<img alt="" class="emoji emojiordered1166" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">'
+	'xd'   : '<img alt="😁" draggable="false" class="emoji emojiordered1154" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">',
+	'::*'  : '<img alt="" class="emoji emojiordered1166" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">',
+	':*'   : '<img alt="" class="emoji emojiordered1177" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">'
 };
 
 $(document).ready(function () {
